@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "name": "work",
+            "amount": 10000,
+            "date": "12/09/2021",
+            "type": "expenses" 
+        },
+        {
+            "name": "work 2",
+            "amount": 15000,
+            "date": "11/09/2021",
+            "type": "income"
+        }
+    ]
+}
